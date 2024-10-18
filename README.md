@@ -17,7 +17,7 @@ For the backend i used node js with expressjs, and mongodb as my database of cho
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./screenshots/home-ss.png)
 
 
 ## Run Locally
